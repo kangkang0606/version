@@ -1,6 +1,6 @@
 {
-  "version": "0.3.75",
-  "changelog": "更新内容\n修复手动GC卡顿，增加高境界压制以及统治力，增强踏天\n不更新不影响游玩",
+  "version": "0.3.80",
+  "changelog": "更新内容:\n优化护甲计算机制，优化cd冷却，现在天道突破会降下雷劫，在突破中可能会死亡，也会影响周围的生物\n不更新不影响游玩",
   "notice": "模组作者：康康",
-  "download_url": "https://wwaui.lanzoue.com/ihAyg3euyt2d"
+  "download_url": "https://wwaui.lanzoue.com/iv1iS3f2vl2f"
 }
