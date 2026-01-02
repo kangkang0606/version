@@ -1,6 +1,6 @@
 {
-  "version": "0.3.81",
-  "changelog": "更新内容:\n紧急修复天道伤害会导致一些人无法正常突破，80版本建议更新",
+  "version": "0.3.82",
+  "changelog": "更新内容:\n紧急修复一个古老的bug，之前居然没人触发过这个bug概率导致卡屏，修复高境界入伍,后续更新时间延长",
   "notice": "模组作者：康康",
-  "download_url": "https://wwaui.lanzoue.com/ieeqe3f3o8uj"
+  "download_url": "https://wwaui.lanzoue.com/i4INH3f4jw1a"
 }
