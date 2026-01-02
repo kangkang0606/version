@@ -1,6 +1,6 @@
 {
-  "version": "0.3.80",
-  "changelog": "更新内容:\n优化护甲计算机制，优化cd冷却，现在天道突破会降下雷劫，在突破中可能会死亡，也会影响周围的生物\n不更新不影响游玩",
+  "version": "0.3.81",
+  "changelog": "更新内容:\n紧急修复天道伤害会导致一些人无法正常突破，80版本建议更新",
   "notice": "模组作者：康康",
-  "download_url": "https://wwaui.lanzoue.com/iv1iS3f2vl2f"
+  "download_url": "https://wwaui.lanzoue.com/ieeqe3f3o8uj"
 }
